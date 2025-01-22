@@ -17,7 +17,7 @@ namespace ProjectUtilities
 
             services.AddSingleton<IDataConnections, DataConnections>();
             services.AddSingleton<ICustomLogger, CustomLogger>();
-            //services.AddTransient<CustomExceptionMiddleware>();
+            
 
             services.AddTransient<Func<string, ISQLDataAccess>>(provider => key =>
             {
