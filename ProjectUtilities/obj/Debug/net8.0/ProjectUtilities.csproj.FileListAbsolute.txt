@@ -1,0 +1,12 @@
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\bin\Debug\net8.0\ProjectUtilities.deps.json
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\bin\Debug\net8.0\ProjectUtilities.dll
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\bin\Debug\net8.0\ProjectUtilities.pdb
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.csproj.AssemblyReference.cache
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.AssemblyInfoInputs.cache
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.AssemblyInfo.cs
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.dll
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\refint\ProjectUtilities.dll
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.pdb
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ref\ProjectUtilities.dll
