@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sNjKOevC4ikj4obd3wBcPkLnWKrXnnHMJY9FfiuBXlagU3MZz8JJH5xba1Xr1cMlCcnl7i94mRhHIaO+1pS/ZA==",
+  "dgSpecHash": "nzvQI0k8mdEd5P2q9q8ZrxlhfjRpGB7/pgVglGpM4FIpFc5N8fSelCptHXqFgseFApPCjmAfiVy12Sr/uIkQtg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Goldmedal\\source\\repos\\ProjectUtilities\\ProjectUtilities\\ProjectUtilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Goldmedal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Goldmedal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Goldmedal\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Goldmedal\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Goldmedal\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\Goldmedal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",

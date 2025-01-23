@@ -10,3 +10,4 @@ C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8
 C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\refint\ProjectUtilities.dll
 C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.pdb
 C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ref\ProjectUtilities.dll
+C:\Users\Goldmedal\source\repos\ProjectUtilities\ProjectUtilities\obj\Debug\net8.0\ProjectUtilities.sourcelink.json
